@@ -13,5 +13,5 @@ if a='+':
 elif a='-':
     print()
 elif a='*'
-    print()
+    print(nume1*num2)
 elif a='/'
