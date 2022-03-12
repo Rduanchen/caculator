@@ -9,9 +9,9 @@ num2=input("請輸入第二個數字")
 print("你要做怎樣的運算?\n加法按+，減法按-，乘法按*，除法按/")
 a=input()
 if a='+':
-    print(num1*num2)
+    print(num1+num2)
 elif a='-':
-    print()
+    print(num1-num2)
 elif a='*'
     print(nume1*num2)
 elif a='/'
