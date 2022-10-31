@@ -24,7 +24,7 @@ int main(void){
         ans[i]=0;
     }
 
-    cout<<"well come to use the big number calculator"
+    cout<<"well come to use the big number calculator";
     cout<<"Please enter first number"<<endl;
     cin>>num1_c;
     cout<<"Please enter Second number"<<endl;
