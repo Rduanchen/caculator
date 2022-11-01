@@ -103,7 +103,7 @@ int main(void){
             not_zero+=1;
             cout<<ans[i];
         }
-        else if (ans[i]==0 && not_zero>1)//Don't skip the 0 whick is useful
+        else if (ans[i]==0 && not_zero>=1)//Don't skip the 0 whick is useful
         {
             cout<<ans[i];
         }
